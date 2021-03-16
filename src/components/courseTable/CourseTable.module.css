@@ -1,0 +1,12 @@
+.containerList {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.itemList {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding-left: 10px;
+    border-bottom: 1px solid #29297985;
+}
